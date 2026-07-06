@@ -1,6 +1,6 @@
 # Textory Privacy Policy
-**Revision:** 1.0
-**Effective Date:** June 9, 2026
+**Revision:** 2.0
+**Effective Date:** July 6, 2026
 
 Textory is built to be a simple, private text editor. We do not collect, store, sell, share, track, or transmit any personal information from users.
 
@@ -71,4 +71,4 @@ If Textory ever adds features that collect data, such as accounts, sync servers,
 For questions about this Privacy Policy, contact:
 
 **Fare Brothers LLC**
-**Email:** [support@farebrothers.com](mailto:support@farebros.com)
+**Email:** [support@farebros.com](mailto:support@farebros.com)
