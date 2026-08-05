@@ -1,86 +1,32 @@
-# Privacy Policy
+# FreeScan Privacy Policy
 
-**Effective Date:** July 6, 2026
+**Effective date:** August 4, 2026
 
-## FreeScan Code Scanner Privacy Policy
+FreeScan is designed to work privately on your device.
 
-Thank you for using **FreeScan Code Scanner** ("FreeScan," "we," "our," or "us").
+## Data collection
 
-Your privacy is important. FreeScan has been designed to work entirely on your device and does **not** collect, store, transmit, or share your personal information.
+FreeScan does not collect, log, track, sell, or share personal information, analytics, advertising identifiers, scan contents, camera images, or usage data.
 
-## Information We Collect
+Barcode scanning and photo processing happen locally on your device. FreeScan does not operate a server that receives or stores your scans. The app does not include advertising or third-party tracking SDKs.
 
-**We do not collect any personal information.**
+## Camera and photo access
 
-FreeScan does not require:
+FreeScan uses camera access only to scan codes. Photo access is used only when you choose an image to scan. Camera frames, selected photos, and scan results remain on your device unless you intentionally share them or open an external action.
 
-- User accounts
-- Registration
-- Sign in
-- Email addresses
-- Phone numbers
-- Names
-- Location information
-- Payment information
-- Analytics
-- Advertising identifiers
-- Usage tracking
+## External actions
 
-We do not collect or transmit any information about how you use the app.
+If you choose to open a scanned website, map, email, phone number, message, or another external service, information may be sent to that service under its own privacy policy. FreeScan does not control those services.
 
-## Camera Permission
+## Data retention and deletion
 
-FreeScan requires access to your device's camera solely to scan barcodes and QR codes.
+Because FreeScan does not collect or store your data, there is no developer-held user data to retain or delete. You can remove locally stored app data by deleting the app.
 
-Camera images are processed directly on your device. They are **not** stored, uploaded, transmitted, or shared with us or any third party.
+## Changes
 
-You can manage camera access at any time through your device's Settings.
-
-## Scanned Content
-
-The information contained within scanned codes is processed locally on your device.
-
-FreeScan does **not**:
-
-- Store scanned codes
-- Upload scanned data
-- Send scanned information to any server
-- Share scanned information with third parties
-
-If you choose to copy or share scanned content using your device's built-in features, that action is entirely under your control.
-
-## Internet Connectivity
-
-FreeScan does not require an internet connection to perform scanning.
-
-If your device is connected to the internet, the app still does **not** transmit your scanned data or personal information to us.
-
-## Third-Party Services
-
-FreeScan does **not** use third-party services that collect user data, including:
-
-- Analytics services
-- Advertising networks
-- Crash reporting services
-- Marketing SDKs
-- User tracking technologies
-
-## Children's Privacy
-
-FreeScan does not knowingly collect any personal information from anyone, including children under the age of 13. Since we do not collect any personal information, no information from children is ever collected or stored.
-
-## Data Security
-
-Because FreeScan does not collect or store your personal information, there is no user data maintained on our servers.
-
-All scanning operations occur locally on your device.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any updates will be reflected by revising the **Effective Date** above. Continued use of FreeScan after changes become effective constitutes acceptance of the updated Privacy Policy.
+If FreeScan's data practices change, this policy will be updated before those changes take effect.
 
 ## Contact
 
-If you have questions about this Privacy Policy, you may contact us at:
+Questions can be submitted through [FreeScan GitHub Issues](https://github.com/alexfare/FreeScan/issues).
 
-**Email:** support@farebros.com
