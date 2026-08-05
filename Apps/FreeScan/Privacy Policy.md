@@ -27,6 +27,7 @@ Because FreeScan does not collect or store your data, there is no developer-held
 If FreeScan's data practices change, this policy will be updated before those changes take effect.
 
 ## Contact
+If you have questions about this Privacy Policy, you may contact us at:
 
-Questions can be submitted through [FreeScan GitHub Issues](https://github.com/alexfare/FreeScan/issues).
+**Email:** support@farebros.com
 
