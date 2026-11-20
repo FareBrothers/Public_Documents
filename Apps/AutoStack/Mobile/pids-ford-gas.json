@@ -1,0 +1,7 @@
+{
+  "name": "Ford Gas PIDs",
+  "version": 1,
+  "pids": [
+    { "id": "ford-gas-short-fuel-trim-bank-1", "name": "Short-Term Fuel Trim Bank 1", "command": "0106", "responsePrefix": "4106", "unit": "%", "byteCount": 1, "scale": 0.78125, "offset": -100, "decimals": 1, "minimum": -100, "maximum": 99.2 }
+  ]
+}

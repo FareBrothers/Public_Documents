@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "standard-pids",
+      "kind": "pids",
+      "name": "PID Definitions",
+      "version": 4,
+      "summary": "Generic OBD-II live-data definitions",
+      "itemCount": 61,
+      "downloadPath": "pids-standard.json"
+    },
+    {
+      "id": "standard-dtc-descriptions",
+      "kind": "dtcDescriptions",
+      "name": "Trouble Code Descriptions",
+      "version": 2,
+      "summary": "Generic OBD-II trouble-code definitions",
+      "itemCount": 100,
+      "downloadPath": "dtc-standard.json"
+    },
+    {
+      "id": "vehicle-manufacturers",
+      "kind": "vehicleBrands",
+      "name": "Vehicle Manufacturers",
+      "version": 2,
+      "summary": "Searchable vehicle manufacturer definitions",
+      "itemCount": 45,
+      "downloadPath": "manufacturers.json"
+    },
+    {
+      "id": "ford-gas-pids",
+      "kind": "pids",
+      "name": "Ford Gas PIDs",
+      "version": 1,
+      "summary": "Ford gasoline live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-ford-gas.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.ford"
+    },
+    {
+      "id": "ford-diesel-pids",
+      "kind": "pids",
+      "name": "Ford Diesel PIDs",
+      "version": 1,
+      "summary": "Ford diesel live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-ford-diesel.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.ford"
+    },
+    {
+      "id": "gm-gas-pids",
+      "kind": "pids",
+      "name": "Chevrolet / GM Gas PIDs",
+      "version": 1,
+      "summary": "Chevrolet and GM gasoline live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-gm-gas.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.gm"
+    },
+    {
+      "id": "gm-diesel-pids",
+      "kind": "pids",
+      "name": "Chevrolet / GM Diesel PIDs",
+      "version": 1,
+      "summary": "Chevrolet and GM diesel live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-gm-diesel.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.gm"
+    },
+    {
+      "id": "dodge-gas-pids",
+      "kind": "pids",
+      "name": "Dodge / Ram Gas PIDs",
+      "version": 1,
+      "summary": "Dodge and Ram gasoline live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-dodge-gas.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.dodge"
+    },
+    {
+      "id": "dodge-diesel-pids",
+      "kind": "pids",
+      "name": "Dodge / Ram Diesel PIDs",
+      "version": 1,
+      "summary": "Dodge and Ram diesel live-data definitions",
+      "itemCount": 1,
+      "downloadPath": "pids-dodge-diesel.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.dodge"
+    },
+    {
+      "id": "subaru-gas-pids",
+      "kind": "pids",
+      "name": "Subaru Gas PIDs",
+      "version": 3,
+      "summary": "Generation-specific Subaru SSM live-data definitions",
+      "itemCount": 57,
+      "downloadPath": "pids-subaru-gas.json",
+      "requiredProductID": "com.alexfare.MobileOBD.manufacturer.subaru"
+    }
+  ]
+}

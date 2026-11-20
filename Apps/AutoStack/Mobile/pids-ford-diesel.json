@@ -1,0 +1,7 @@
+{
+  "name": "Ford Diesel PIDs",
+  "version": 1,
+  "pids": [
+    { "id": "ford-diesel-commanded-egr", "name": "Commanded EGR", "command": "012C", "responsePrefix": "412C", "unit": "%", "byteCount": 1, "scale": 0.3921568627, "offset": 0, "decimals": 1, "minimum": 0, "maximum": 100 }
+  ]
+}
